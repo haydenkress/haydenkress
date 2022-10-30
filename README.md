@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @haydenxyz
+- 👋 Hi, I’m hayden
 - 👀 I’m interested in web3, software, and new technologies
 - 🌱 I’m currently learning solidity and backend scripting
 - 💞️ I’m looking to collaborate on... 🤫
