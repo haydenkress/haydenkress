@@ -1,6 +1,6 @@
-- 👋 Hi, I’m hayden
-- 👀 I’m interested in web3, software, and new technologies
-- 🌱 I’m currently learning solidity and backend scripting
+- 👋 Hi, I’m Hayden
+- 👀 I’m interested in new tech, AI/ML, and finance
+- 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate on... 🤫
 - 📫 How to reach me: @haydenkress on twitter!
 
